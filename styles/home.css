@@ -1,0 +1,344 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 39.3rem;
+}.home-vjq {
+  width: 100%;
+  height: 85.2rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #131e3c;
+}
+.home-vjq .rectangle-1-GHu {
+  width: 39.3rem;
+  height: 82.5rem;
+  position: absolute;
+  left: 0;
+  top: 2.4rem;
+  background-color: #ffffff;
+}
+.home-vjq .rectangle-2-bLB {
+  width: 34.6rem;
+  height: 5.2rem;
+  position: absolute;
+  left: 1.9rem;
+  top: 9.7rem;
+  background-color: #f1f0f6;
+  border-radius: 5rem;
+}
+.home-vjq .reminders-XDq {
+  box-sizing: border-box;
+  padding: 1.9rem 0.3rem 0.6rem 0.4rem;
+  width: 16.8rem;
+  height: 24.1rem;
+  cursor: pointer;
+  position: absolute;
+  left: 1.9rem;
+  top: 18.5rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #c92b2b;
+  border-radius: 1.9rem;
+}
+.home-vjq .reminders-XDq .team-meta-heads-1-yLj {
+  margin-right: 0.1rem;
+  width: 12.4rem;
+  height: 11.6rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-vjq .reminders-XDq .auto-group-9rst-JP1 {
+  box-sizing: border-box;
+  padding: 1rem 2.3rem 1rem 1.2rem;
+  width: 100%;
+  height: 10rem;
+  font-size: 2.4rem;
+  font-weight: 900;
+  line-height: 1.445;
+  color: #000000;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 0 0 1.7rem 1.7rem;
+  flex-shrink: 0;
+}
+.home-vjq .search-1-r39 {
+  width: 3.4rem;
+  height: 3.4rem;
+  position: absolute;
+  left: 3.5rem;
+  top: 10.5rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.home-vjq .doctor-assistance-NnB {
+  box-sizing: border-box;
+  padding: 2.7rem 0.4rem 0.5rem 0.3rem;
+  width: 16.8rem;
+  height: 24.1rem;
+  cursor: pointer;
+  position: absolute;
+  left: 20.3rem;
+  top: 18.4rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #16d106;
+  border-radius: 1.9rem;
+}
+.home-vjq .doctor-assistance-NnB .image-removebg-preview-1-Sn3 {
+  margin: 0rem 0rem 0.7rem 0.1rem;
+  width: 13.2rem;
+  height: 10.2rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-vjq .doctor-assistance-NnB .auto-group-2vhd-vx7 {
+  box-sizing: border-box;
+  padding: 1rem 2.3rem 2rem 2.2rem;
+  width: 100%;
+  height: 10rem;
+  background-color: #ffffff;
+  border-radius: 0 0 1.7rem 1.7rem;
+  flex-shrink: 0;
+}
+.home-vjq .doctor-assistance-NnB .auto-group-2vhd-vx7 .doctor-assistance-Tx3 {
+  max-width: 11.6rem;
+  font-size: 2.4rem;
+  font-weight: 800;
+  line-height: 1.445;
+  color: #000000;
+  font-family: Jost, 'Source Sans Pro';
+}
+.home-vjq .med-store-A5m {
+  width: 10.7rem;
+  height: 14rem;
+  position: absolute;
+  left: 1.9rem;
+  top: 46rem;
+}
+.home-vjq .med-store-A5m .rectangle-7-sVy {
+  width: 10.1rem;
+  height: 14rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #4fb1a5;
+  border-radius: 1.4rem;
+}
+.home-vjq .med-store-A5m .med-1-NSj {
+  width: 9.1rem;
+  height: 6.4rem;
+  position: absolute;
+  left: 1.6rem;
+  top: 1.4rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.home-vjq .med-store-A5m .rectangle-10-tAB {
+  width: 9.6rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 0.2rem;
+  top: 9.8rem;
+  background-color: #ffffff;
+  border-radius: 0 0 1.4rem 1.4rem;
+}
+.home-vjq .med-store-A5m .med-store-cM5 {
+  width: 7.1rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 1.3rem;
+  top: 10.7rem;
+  font-size: 1.4rem;
+  font-weight: 800;
+  line-height: 1.445;
+  color: #000000;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-vjq .med-store-vsZ {
+  box-sizing: border-box;
+  padding: 1.4rem 0.3rem 0.2rem 0.2rem;
+  width: 10.1rem;
+  height: 14rem;
+  position: absolute;
+  left: 26.8rem;
+  top: 46rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #d5d16b;
+  border-radius: 1.4rem;
+}
+.home-vjq .med-store-vsZ .checklist-1-Sb1 {
+  margin-right: 0.4rem;
+  width: 9.2rem;
+  height: 8.3rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-vjq .med-store-vsZ .auto-group-bcpq-zMd {
+  width: 100%;
+  height: 4.1rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.home-vjq .med-store-vsZ .auto-group-bcpq-zMd .rectangle-10-Ye3 {
+  width: 9.6rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 0;
+  top: 0.1rem;
+  background-color: #ffffff;
+  border-radius: 0 0 1.4rem 1.4rem;
+}
+.home-vjq .med-store-vsZ .auto-group-bcpq-zMd .vitals-record-G4F {
+  width: 4.8rem;
+  height: 4.1rem;
+  position: absolute;
+  left: 2.5rem;
+  top: 0;
+  font-size: 1.4rem;
+  font-weight: 800;
+  line-height: 1.445;
+  color: #000000;
+  font-family: Jost, 'Source Sans Pro';
+}
+.home-vjq .med-store-tbR {
+  box-sizing: border-box;
+  padding: 2rem 0.3rem 0.4rem 0.2rem;
+  width: 10.1rem;
+  height: 14rem;
+  cursor: pointer;
+  position: absolute;
+  left: 14.2rem;
+  top: 46rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #a99bd6;
+  border-radius: 1.4rem;
+}
+.home-vjq .med-store-tbR .con-1-ZSf {
+  margin: 0rem 0rem 0.8rem 0.1rem;
+  width: 7.7rem;
+  height: 7rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-vjq .med-store-tbR .auto-group-nco9-6Bh {
+  width: 100%;
+  height: 3.8rem;
+  font-size: 1.4rem;
+  font-weight: 800;
+  line-height: 1.445;
+  color: #000000;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ffffff;
+  border-radius: 0 0 1.4rem 1.4rem;
+  flex-shrink: 0;
+}
+.home-vjq .contact-1-xDu {
+  width: 4.7rem;
+  height: 5rem;
+  cursor: pointer;
+  position: absolute;
+  left: 2.3rem;
+  top: 2.9rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.home-vjq .frame-1-tNT {
+  width: 10rem;
+  height: 10rem;
+  position: absolute;
+  left: 4.8rem;
+  top: 16.6rem;
+  overflow: hidden;
+}
+.home-vjq .logo-1-oVR {
+  width: 21.7rem;
+  height: 5rem;
+  position: absolute;
+  left: 16.5rem;
+  top: 2.9rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.home-vjq .search-wLj {
+  width: 4.8rem;
+  height: 1.7rem;
+  position: absolute;
+  left: 17.2rem;
+  top: 11.4rem;
+  font-size: 1.4rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  font-style: italic;
+  color: #908c8c;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-vjq .rectangle-18-bw5 {
+  width: 33.7rem;
+  height: 14.3rem;
+  cursor: pointer;
+  position: absolute;
+  left: 2.8rem;
+  top: 64.9rem;
+  background-color: #092f97;
+  border-radius: 1rem;
+}
+.home-vjq .rectangle-43-8w1 {
+  width: 15.2rem;
+  height: 12.5rem;
+  position: absolute;
+  left: 20.6rem;
+  top: 65.8rem;
+  background-color: #ffffff;
+  border-radius: 1rem;
+}
+.home-vjq .medicines-currently-prescribed-sNo {
+  width: 12.5rem;
+  height: 10.5rem;
+  position: absolute;
+  left: 22.1rem;
+  top: 67.1rem;
+  font-size: 2.4rem;
+  font-weight: 800;
+  line-height: 1.445;
+  color: #000000;
+  font-family: Jost, 'Source Sans Pro';
+}
+.home-vjq .prescription-1-nEs {
+  width: 11.4rem;
+  height: 15.8rem;
+  position: absolute;
+  left: 5.7rem;
+  top: 64.9rem;
+  object-fit: cover;
+  vertical-align: top;
+}

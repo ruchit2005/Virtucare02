@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <link rel="icon" href="/favicon.ico" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="theme-color" content="#000000" />
+  <title>home</title>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Jost%3A800%2C900"/>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro%3A600%2C800%2C900"/>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Inter%3A600"/>
+  <link rel="stylesheet" href="./styles/home.css"/>
+</head>
+<body>
+<div class="home-vjq">
+  <div class="rectangle-1-GHu">
+  </div>
+  <div class="rectangle-2-bLB">
+  </div>
+  <div class="reminders-XDq" id = 'reminderLink'>
+    <img class="team-meta-heads-1-yLj" src="./assets/team-meta-heads-1.png"/>
+    <div class="auto-group-9rst-JP1">Reminders</div>
+  </div>
+  <img class="search-1-r39" src="./assets/search-1.png"/>
+  <div class="doctor-assistance-NnB" id ='doctorLink'>
+    <img class="image-removebg-preview-1-Sn3" src="./assets/image-removebg-preview-1.png"/>
+    <div class="auto-group-2vhd-vx7">
+      <p class="doctor-assistance-Tx3">Doctor Assistance</p>
+    </div>
+  </div>
+  <div class="med-store-A5m">
+    <div class="rectangle-7-sVy">
+    </div>
+    <img class="med-1-NSj" src="./assets/med-1.png"/>
+    <div class="rectangle-10-tAB">
+    </div>
+    <p class="med-store-cM5">Med Store</p>
+  </div>
+  <div class="med-store-vsZ">
+    <img class="checklist-1-Sb1" src="./assets/checklist-1.png"/>
+    <div class="auto-group-bcpq-zMd">
+      <div class="rectangle-10-Ye3">
+      </div>
+      <p class="vitals-record-G4F">Vitals Record</p>
+    </div>
+  </div>
+  <div class="med-store-tbR" id='contactLink'>
+    <img class="con-1-ZSf" src="./assets/con-1.png"/>
+    <div class="auto-group-nco9-6Bh">Contact Us</div>
+  </div>
+  <img class="contact-1-xDu" id="accountDetailsLink" src="./assets/contact-1-7GK.png"/>
+  <div class="frame-1-tNT">
+  </div>
+  <img class="logo-1-oVR" src="./assets/logo-1-cij.png"/>
+  <p class="search-wLj">Search</p>
+  <div class="rectangle-18-bw5">
+  </div>
+  <div class="rectangle-43-8w1">
+  </div>
+  <p class="medicines-currently-prescribed-sNo">Medicines Currently Prescribed</p>
+  <img class="prescription-1-nEs" id ="yourmedsLink" src="./assets/prescription-1.png"/>
+</div>
+<script>
+  const accountDetailsLink = document.getElementById('accountDetailsLink');
+  accountDetailsLink.addEventListener('click', function() {
+  window.location.href = 'account-details.html'; // Redirect to account-details.html
+  });
+</script>
+<script>
+  const reminderLink = document.getElementById('reminderLink');
+  reminderLink.addEventListener('click', function() {
+  window.location.href = 'reminder.html'; 
+  });
+</script>
+<script>
+  const doctorLink = document.getElementById('doctorLink');
+  doctorLink.addEventListener('click', function() {
+  window.location.href = 'doctors-assistance.html'; 
+  });
+</script>
+
+<script>
+  const contactLink = document.getElementById('contactLink');
+  contactLink.addEventListener('click', function() {
+    window.location.href = 'contact-us.html'; 
+  });
+</script>
+<script>
+  const yourmedsLink = document.getElementById('yourmedsLink');
+  yourmedsLink.addEventListener('click', function() {
+  window.location.href = 'your-meds.html'; 
+  });
+</script>
+</body>

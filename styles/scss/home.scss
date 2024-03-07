@@ -1,0 +1,352 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 39.3rem;
+}.home-vjq {
+  width: 100%;
+  height: 85.2rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #131e3c;
+
+  .rectangle-1-GHu {
+    height: 82.5rem;
+    position: absolute;
+    left: 0;
+    top: 2.4rem;
+    background-color: #ffffff;
+    width: 39.3rem;
+  }
+  .rectangle-2-bLB {
+    position: absolute;
+    left: 1.9rem;
+    top: 9.7rem;
+    background-color: #f1f0f6;
+    border-radius: 5rem;
+    width: 34.6rem;
+    height: 5.2rem;
+  }
+  .reminders-XDq {
+    align-items: center;
+    flex-direction: column;
+    border-radius: 1.9rem;
+    width: 16.8rem;
+    cursor: pointer;
+    position: absolute;
+    left: 1.9rem;
+    top: 18.5rem;
+    box-sizing: border-box;
+    padding: 1.9rem 0.3rem 0.6rem 0.4rem;
+    height: 24.1rem;
+    display: flex;
+    background-color: #c92b2b;
+
+    .team-meta-heads-1-yLj {
+      vertical-align: top;
+      flex-shrink: 0;
+      margin-right: 0.1rem;
+      width: 12.4rem;
+      height: 11.6rem;
+      object-fit: cover;
+    }
+    .auto-group-9rst-JP1 {
+      box-sizing: border-box;
+      padding: 1rem 2.3rem 1rem 1.2rem;
+      height: 10rem;
+      font-size: 2.4rem;
+      white-space: nowrap;
+      box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+      width: 100%;
+      line-height: 1.445;
+      color: #000000;
+      font-weight: 900;
+      font-family: Jost, 'Source Sans Pro';
+      background-color: #ffffff;
+      border-radius: 0 0 1.7rem 1.7rem;
+      flex-shrink: 0;
+    }
+  }
+  .search-1-r39 {
+    left: 3.5rem;
+    top: 10.5rem;
+    object-fit: cover;
+    vertical-align: top;
+    width: 3.4rem;
+    height: 3.4rem;
+    position: absolute;
+  }
+  .doctor-assistance-NnB {
+    box-sizing: border-box;
+    width: 16.8rem;
+    height: 24.1rem;
+    cursor: pointer;
+    position: absolute;
+    left: 20.3rem;
+    padding: 2.7rem 0.4rem 0.5rem 0.3rem;
+    top: 18.4rem;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    background-color: #16d106;
+    border-radius: 1.9rem;
+
+    .image-removebg-preview-1-Sn3 {
+      object-fit: cover;
+      vertical-align: top;
+      flex-shrink: 0;
+      margin: 0rem 0rem 0.7rem 0.1rem;
+      width: 13.2rem;
+      height: 10.2rem;
+    }
+    .auto-group-2vhd-vx7 {
+      background-color: #ffffff;
+      border-radius: 0 0 1.7rem 1.7rem;
+      flex-shrink: 0;
+      box-sizing: border-box;
+      padding: 1rem 2.3rem 2rem 2.2rem;
+      width: 100%;
+      height: 10rem;
+
+      .doctor-assistance-Tx3 {
+        line-height: 1.445;
+        color: #000000;
+        font-family: Jost, 'Source Sans Pro';
+        max-width: 11.6rem;
+        font-size: 2.4rem;
+        font-weight: 800;
+      }
+    }
+  }
+  .med-store-A5m {
+    width: 10.7rem;
+    height: 14rem;
+    position: absolute;
+    left: 1.9rem;
+    top: 46rem;
+
+    .rectangle-7-sVy {
+      border-radius: 1.4rem;
+      width: 10.1rem;
+      height: 14rem;
+      position: absolute;
+      left: 0;
+      top: 0;
+      background-color: #4fb1a5;
+    }
+    .med-1-NSj {
+      width: 9.1rem;
+      height: 6.4rem;
+      position: absolute;
+      left: 1.6rem;
+      top: 1.4rem;
+      object-fit: cover;
+      vertical-align: top;
+    }
+    .rectangle-10-tAB {
+      height: 3.8rem;
+      position: absolute;
+      left: 0.2rem;
+      top: 9.8rem;
+      background-color: #ffffff;
+      border-radius: 0 0 1.4rem 1.4rem;
+      width: 9.6rem;
+    }
+    .med-store-cM5 {
+      white-space: nowrap;
+      height: 2.1rem;
+      position: absolute;
+      top: 10.7rem;
+      font-size: 1.4rem;
+      font-weight: 800;
+      width: 7.1rem;
+      left: 1.3rem;
+      line-height: 1.445;
+      color: #000000;
+      font-family: Jost, 'Source Sans Pro';
+    }
+  }
+  .med-store-vsZ {
+    flex-direction: column;
+    box-sizing: border-box;
+    top: 46rem;
+    align-items: center;
+    position: absolute;
+    left: 26.8rem;
+    display: flex;
+    background-color: #d5d16b;
+    border-radius: 1.4rem;
+    padding: 1.4rem 0.3rem 0.2rem 0.2rem;
+    width: 10.1rem;
+    height: 14rem;
+
+    .checklist-1-Sb1 {
+      height: 8.3rem;
+      object-fit: cover;
+      vertical-align: top;
+      flex-shrink: 0;
+      margin-right: 0.4rem;
+      width: 9.2rem;
+    }
+    .auto-group-bcpq-zMd {
+      position: relative;
+      flex-shrink: 0;
+      width: 100%;
+      height: 4.1rem;
+
+      .rectangle-10-Ye3 {
+        position: absolute;
+        left: 0;
+        top: 0.1rem;
+        background-color: #ffffff;
+        border-radius: 0 0 1.4rem 1.4rem;
+        width: 9.6rem;
+        height: 3.8rem;
+      }
+      .vitals-record-G4F {
+        left: 2.5rem;
+        font-size: 1.4rem;
+        color: #000000;
+        font-family: Jost, 'Source Sans Pro';
+        width: 4.8rem;
+        height: 4.1rem;
+        position: absolute;
+        top: 0;
+        font-weight: 800;
+        line-height: 1.445;
+      }
+    }
+  }
+  .med-store-tbR {
+    cursor: pointer;
+    position: absolute;
+    left: 14.2rem;
+    top: 46rem;
+    align-items: center;
+    display: flex;
+    box-sizing: border-box;
+    padding: 2rem 0.3rem 0.4rem 0.2rem;
+    border-radius: 1.4rem;
+    flex-direction: column;
+    background-color: #a99bd6;
+    width: 10.1rem;
+    height: 14rem;
+
+    .con-1-ZSf {
+      vertical-align: top;
+      flex-shrink: 0;
+      margin: 0rem 0rem 0.8rem 0.1rem;
+      width: 7.7rem;
+      height: 7rem;
+      object-fit: cover;
+    }
+    .auto-group-nco9-6Bh {
+      align-items: center;
+      background-color: #ffffff;
+      flex-shrink: 0;
+      width: 100%;
+      color: #000000;
+      font-family: Jost, 'Source Sans Pro';
+      font-size: 1.4rem;
+      font-weight: 800;
+      display: flex;
+      justify-content: center;
+      border-radius: 0 0 1.4rem 1.4rem;
+      height: 3.8rem;
+      line-height: 1.445;
+      white-space: nowrap;
+    }
+  }
+  .contact-1-xDu {
+    vertical-align: top;
+    width: 4.7rem;
+    height: 5rem;
+    cursor: pointer;
+    position: absolute;
+    left: 2.3rem;
+    top: 2.9rem;
+    object-fit: cover;
+  }
+  .frame-1-tNT {
+    top: 16.6rem;
+    overflow: hidden;
+    width: 10rem;
+    height: 10rem;
+    position: absolute;
+    left: 4.8rem;
+  }
+  .logo-1-oVR {
+    top: 2.9rem;
+    object-fit: cover;
+    vertical-align: top;
+    width: 21.7rem;
+    height: 5rem;
+    position: absolute;
+    left: 16.5rem;
+  }
+  .search-wLj {
+    width: 4.8rem;
+    left: 17.2rem;
+    line-height: 1.2125;
+    color: #908c8c;
+    font-weight: 600;
+    font-style: italic;
+    font-family: Inter, 'Source Sans Pro';
+    white-space: nowrap;
+    height: 1.7rem;
+    position: absolute;
+    top: 11.4rem;
+    font-size: 1.4rem;
+  }
+  .rectangle-18-bw5 {
+    top: 64.9rem;
+    background-color: #092f97;
+    border-radius: 1rem;
+    width: 33.7rem;
+    height: 14.3rem;
+    cursor: pointer;
+    position: absolute;
+    left: 2.8rem;
+  }
+  .rectangle-43-8w1 {
+    background-color: #ffffff;
+    border-radius: 1rem;
+    width: 15.2rem;
+    height: 12.5rem;
+    position: absolute;
+    left: 20.6rem;
+    top: 65.8rem;
+  }
+  .medicines-currently-prescribed-sNo {
+    color: #000000;
+    font-family: Jost, 'Source Sans Pro';
+    width: 12.5rem;
+    height: 10.5rem;
+    position: absolute;
+    top: 67.1rem;
+    font-size: 2.4rem;
+    line-height: 1.445;
+    left: 22.1rem;
+    font-weight: 800;
+  }
+  .prescription-1-nEs {
+    top: 64.9rem;
+    object-fit: cover;
+    vertical-align: top;
+    width: 11.4rem;
+    height: 15.8rem;
+    position: absolute;
+    left: 5.7rem;
+  }
+}

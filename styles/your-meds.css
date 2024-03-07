@@ -1,0 +1,168 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 39.3rem;
+}.your-meds-ecf {
+  width: 100%;
+  height: 85.2rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #131e3c;
+}
+.your-meds-ecf .rectangle-27-M1H {
+  width: 39.3rem;
+  height: 81.9rem;
+  position: absolute;
+  left: 0;
+  top: 3.3rem;
+  background-color: #ffffff;
+}
+.your-meds-ecf .rectangle-34-tG7 {
+  width: 36.7rem;
+  height: 7.5rem;
+  position: absolute;
+  left: 0.9rem;
+  top: 70.7rem;
+  background-color: #d9d9d9;
+}
+.your-meds-ecf .rectangle-31-E55 {
+  width: 36.7rem;
+  height: 7.5rem;
+  cursor: pointer;
+  position: absolute;
+  left: 1rem;
+  top: 28.3rem;
+  background-color: #d9d9d9;
+}
+.your-meds-ecf .rectangle-32-Zt3 {
+  width: 36.7rem;
+  height: 7.5rem;
+  position: absolute;
+  left: 1.1rem;
+  top: 60.1rem;
+  background-color: #d9d9d9;
+}
+.your-meds-ecf .rectangle-33-hDZ {
+  width: 36.7rem;
+  height: 7.5rem;
+  position: absolute;
+  left: 0.9rem;
+  top: 38.9rem;
+  background-color: #d9d9d9;
+}
+.your-meds-ecf .rectangle-30-qaf {
+  width: 36.7rem;
+  height: 7.5rem;
+  position: absolute;
+  left: 0.9rem;
+  top: 49.5rem;
+  background-color: #d9d9d9;
+}
+.your-meds-ecf .back-1-nF1 {
+  width: 5.2rem;
+  height: 2.6rem;
+  cursor: pointer;
+  position: absolute;
+  left: 0.9rem;
+  top: 5.5rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.your-meds-ecf .logo-1-7YB {
+  width: 21.7rem;
+  height: 5rem;
+  position: absolute;
+  left: 16.1rem;
+  top: 4.2rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.your-meds-ecf .your-currently-prescribed-medicines-are-eo1 {
+  width: 30.7rem;
+  height: 10.5rem;
+  position: absolute;
+  left: 1.7rem;
+  top: 13.6rem;
+  font-size: 2.4rem;
+  font-weight: 900;
+  line-height: 1.445;
+  color: #000000;
+  font-family: Jost, 'Source Sans Pro';
+}
+.your-meds-ecf .metformin-Un3 {
+  width: 12.3rem;
+  height: 3.5rem;
+  position: absolute;
+  left: 1.9rem;
+  top: 29.3rem;
+  font-size: 2.4rem;
+  font-weight: 900;
+  line-height: 1.445;
+  color: #000000;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.your-meds-ecf .adlyxin-NsR {
+  width: 9.2rem;
+  height: 3.5rem;
+  position: absolute;
+  left: 2.3rem;
+  top: 40.5rem;
+  font-size: 2.4rem;
+  font-weight: 900;
+  line-height: 1.445;
+  color: #000000;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.your-meds-ecf .sulfonylurea-Gxo {
+  width: 15.1rem;
+  height: 3.5rem;
+  position: absolute;
+  left: 1.5rem;
+  top: 50.7rem;
+  font-size: 2.4rem;
+  font-weight: 900;
+  line-height: 1.445;
+  color: #000000;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.your-meds-ecf .ampixillin-bEP {
+  width: 11.9rem;
+  height: 3.5rem;
+  position: absolute;
+  left: 1.7rem;
+  top: 60.8rem;
+  font-size: 2.4rem;
+  font-weight: 900;
+  line-height: 1.445;
+  color: #000000;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.your-meds-ecf .add-more-iK1 {
+  width: 13.7rem;
+  height: 3.5rem;
+  position: absolute;
+  left: 2.5rem;
+  top: 72rem;
+  font-size: 2.4rem;
+  font-weight: 900;
+  line-height: 1.445;
+  color: #000000;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+}

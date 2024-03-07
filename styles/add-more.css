@@ -1,0 +1,292 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 39.3rem;
+}.add-more-b35 {
+  width: 100%;
+  height: 85.2rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #131e3c;
+}
+.add-more-b35 .rectangle-1-HRh {
+  width: 39.3rem;
+  height: 82.5rem;
+  position: absolute;
+  left: 0;
+  top: 2rem;
+  background-color: #ffffff;
+}
+.add-more-b35 .ellipse-10-Ebq {
+  width: 4.7rem;
+  height: 4.7rem;
+  position: absolute;
+  left: 4.4rem;
+  top: 25.4rem;
+  background-color: #d9d9d9;
+  border-radius: 2.35rem;
+}
+.add-more-b35 .ellipse-11-Zu1 {
+  width: 5.7rem;
+  height: 5.1rem;
+  position: absolute;
+  left: 4.4rem;
+  top: 25.4rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.add-more-b35 .ellipse-15-W3Z {
+  width: 5.7rem;
+  height: 4.8rem;
+  position: absolute;
+  left: 4.4rem;
+  top: 32.8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.add-more-b35 .ellipse-16-ST1 {
+  width: 5.7rem;
+  height: 4.8rem;
+  position: absolute;
+  left: 4.4rem;
+  top: 39.4rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.add-more-b35 .ellipse-17-MZy {
+  width: 5.7rem;
+  height: 4.8rem;
+  position: absolute;
+  left: 4.4rem;
+  top: 46rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.add-more-b35 .ellipse-18-Ueb {
+  width: 5.7rem;
+  height: 4.8rem;
+  position: absolute;
+  left: 4.4rem;
+  top: 52.6rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.add-more-b35 .ellipse-19-n9V {
+  width: 5.7rem;
+  height: 4.8rem;
+  position: absolute;
+  left: 4.4rem;
+  top: 59.2rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.add-more-b35 .ellipse-20-W5V {
+  width: 5.7rem;
+  height: 4.8rem;
+  position: absolute;
+  left: 4.1rem;
+  top: 65.8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.add-more-b35 .back-2-eSb {
+  width: 5.2rem;
+  height: 2.6rem;
+  cursor: pointer;
+  position: absolute;
+  left: 0.9rem;
+  top: 4.9rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.add-more-b35 .logo-1-BhR {
+  width: 21.7rem;
+  height: 5rem;
+  position: absolute;
+  left: 16.1rem;
+  top: 3.6rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.add-more-b35 .metformin-ihM {
+  width: 18.4rem;
+  height: 5.3rem;
+  position: absolute;
+  left: 9.1rem;
+  top: 12.9rem;
+  font-size: 3.6rem;
+  font-weight: 900;
+  line-height: 1.445;
+  color: #000000;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.add-more-b35 .ellipse-7-dZR {
+  width: 9.8rem;
+  height: 9.4rem;
+  position: absolute;
+  left: 23.6rem;
+  top: 25.8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.add-more-b35 .ellipse-8-ZCB {
+  width: 9.8rem;
+  height: 9.4rem;
+  position: absolute;
+  left: 23.6rem;
+  top: 53.2rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.add-more-b35 .ellipse-9-6xo {
+  width: 9.8rem;
+  height: 9.4rem;
+  position: absolute;
+  left: 23.6rem;
+  top: 39.5rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.add-more-b35 .mon-ejR {
+  width: 4.2rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 5rem;
+  top: 26.8rem;
+  font-size: 1.6rem;
+  font-weight: 900;
+  line-height: 1.445;
+  color: #000000;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.add-more-b35 .tue-88o {
+  width: 3.3rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 5.4rem;
+  top: 33.9rem;
+  font-size: 1.6rem;
+  font-weight: 900;
+  line-height: 1.445;
+  color: #000000;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.add-more-b35 .wed-QMD {
+  width: 4.1rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 5.3rem;
+  top: 40.9rem;
+  font-size: 1.6rem;
+  font-weight: 900;
+  line-height: 1.445;
+  color: #000000;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.add-more-b35 .thu-VtT {
+  width: 3.6rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 5.5rem;
+  top: 47.2rem;
+  font-size: 1.6rem;
+  font-weight: 900;
+  line-height: 1.445;
+  color: #000000;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.add-more-b35 .fri-2dV {
+  width: 2.7rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 5.6rem;
+  top: 54.1rem;
+  font-size: 1.6rem;
+  font-weight: 900;
+  line-height: 1.445;
+  color: #000000;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.add-more-b35 .sat-95q {
+  width: 3.3rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 5.3rem;
+  top: 60.4rem;
+  font-size: 1.6rem;
+  font-weight: 900;
+  line-height: 1.445;
+  color: #000000;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.add-more-b35 .sun-1tj {
+  width: 3.6rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 5rem;
+  top: 67rem;
+  font-size: 1.6rem;
+  font-weight: 900;
+  line-height: 1.445;
+  color: #000000;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.add-more-b35 .night-9EF {
+  width: 5.6rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 25.5rem;
+  top: 56.5rem;
+  font-size: 1.6rem;
+  font-weight: 900;
+  line-height: 1.445;
+  color: #000000;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.add-more-b35 .noon-fCb {
+  width: 5.3rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 25.7rem;
+  top: 43.3rem;
+  font-size: 1.6rem;
+  font-weight: 900;
+  line-height: 1.445;
+  color: #000000;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.add-more-b35 .dawn-YnB {
+  width: 5.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 25.7rem;
+  top: 29.2rem;
+  font-size: 1.6rem;
+  font-weight: 900;
+  line-height: 1.445;
+  color: #000000;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+}

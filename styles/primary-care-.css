@@ -1,0 +1,319 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 39.3rem;
+}.primary-care--Sdu {
+  width: 100%;
+  height: 109.5rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #131e3c;
+}
+.primary-care--Sdu .rectangle-1-8Wj {
+  width: 39.3rem;
+  height: 106.8rem;
+  position: absolute;
+  left: 0;
+  top: 2.7rem;
+  background-color: #ffffff;
+}
+.primary-care--Sdu .logo-1-49V {
+  width: 21.7rem;
+  height: 5rem;
+  position: absolute;
+  left: 16.1rem;
+  top: 4.2rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.primary-care--Sdu .back-1-wj5 {
+  width: 5.2rem;
+  height: 2.6rem;
+  position: absolute;
+  left: 0.9rem;
+  top: 5.5rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.primary-care--Sdu .back-3-gwZ {
+  width: 5.2rem;
+  height: 2.6rem;
+  position: absolute;
+  left: 0.9rem;
+  top: 5.5rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.primary-care--Sdu .back-2-ETH {
+  width: 5.2rem;
+  height: 2.6rem;
+  cursor: pointer;
+  position: absolute;
+  left: 0.9rem;
+  top: 5.5rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.primary-care--Sdu .primary-care-appointment-nDu {
+  width: 37.2rem;
+  height: 13.9rem;
+  position: absolute;
+  left: 0.6rem;
+  top: 12.1rem;
+  font-size: 4.8rem;
+  font-weight: 800;
+  line-height: 1.445;
+  color: #131e3c;
+  font-family: Jost, 'Source Sans Pro';
+}
+.primary-care--Sdu .choose-your-own-primary-care-doctor-and-book-an-introductory-video-visit-rUf {
+  width: 31.2rem;
+  height: 8.7rem;
+  position: absolute;
+  left: 4.1rem;
+  top: 29.6rem;
+  font-size: 2rem;
+  font-weight: 800;
+  line-height: 1.445;
+  color: #000000;
+  font-family: Jost, 'Source Sans Pro';
+}
+.primary-care--Sdu .available-doctors-vzK {
+  width: 16.4rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 2rem;
+  top: 42.6rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.445;
+  font-style: italic;
+  color: #131e3c;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.primary-care--Sdu .rectangle-25-eQX {
+  width: 32.4rem;
+  height: 11rem;
+  position: absolute;
+  left: 2.8rem;
+  top: 49.3rem;
+  background-color: #f1f0f6;
+  border-radius: 1.8rem;
+}
+.primary-care--Sdu .rectangle-26-xAK {
+  width: 32.4rem;
+  height: 11rem;
+  position: absolute;
+  left: 2.8rem;
+  top: 63.3rem;
+  background-color: #f1f0f6;
+  border-radius: 1.8rem;
+}
+.primary-care--Sdu .rectangle-27-e39 {
+  width: 32.4rem;
+  height: 11rem;
+  position: absolute;
+  left: 2.8rem;
+  top: 77.3rem;
+  background-color: #f1f0f6;
+  border-radius: 1.8rem;
+}
+.primary-care--Sdu .rectangle-28-ybD {
+  width: 32.4rem;
+  height: 11rem;
+  position: absolute;
+  left: 2.8rem;
+  top: 91.3rem;
+  background-color: #f1f0f6;
+  border-radius: 1.8rem;
+}
+.primary-care--Sdu .amit-agarwal-1-JdV {
+  width: 6.4rem;
+  height: 9rem;
+  position: absolute;
+  left: 4.1rem;
+  top: 50.3rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 0.9rem;
+}
+.primary-care--Sdu .dr-amit-agarwal-Cis {
+  width: 16.2rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 14.2rem;
+  top: 50.9rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.445;
+  color: #000000;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.primary-care--Sdu .dr-ramakanta-p-K2o {
+  width: 16rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 14.2rem;
+  top: 64.9rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.445;
+  color: #000000;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.primary-care--Sdu .dr-suniti-mishra-2hu {
+  width: 15.6rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 14.2rem;
+  top: 78.9rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.445;
+  color: #000000;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.primary-care--Sdu .dr-suniti-mishra-voH {
+  width: 15.6rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 14.2rem;
+  top: 78.9rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.445;
+  color: #000000;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.primary-care--Sdu .dr-vijay-laxmi-zYF {
+  width: 14.1rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 14.2rem;
+  top: 92.9rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.445;
+  color: #000000;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.primary-care--Sdu .image-5-K4j {
+  width: 7.3rem;
+  height: 9.3rem;
+  position: absolute;
+  left: 4.1rem;
+  top: 64.1rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1.1rem;
+}
+.primary-care--Sdu .senior-consultant-ent-DA7 {
+  width: 8.6rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 14.2rem;
+  top: 54.1rem;
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 1.445;
+  color: #615a5a;
+  font-family: Jost, 'Source Sans Pro';
+}
+.primary-care--Sdu .consultant-internal-medicines-icf {
+  width: 9.3rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 14.1rem;
+  top: 68rem;
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 1.445;
+  color: #615a5a;
+  font-family: Jost, 'Source Sans Pro';
+}
+.primary-care--Sdu .senior-consultant-histopathology-E5D {
+  width: 8.6rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 14.2rem;
+  top: 82rem;
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 1.445;
+  color: #615a5a;
+  font-family: Jost, 'Source Sans Pro';
+}
+.primary-care--Sdu .senior-consultant-histopathology-WoR {
+  width: 8.6rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 14.2rem;
+  top: 82rem;
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 1.445;
+  color: #615a5a;
+  font-family: Jost, 'Source Sans Pro';
+}
+.primary-care--Sdu .consultant-dermatology-Dhq {
+  width: 6.7rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 14.1rem;
+  top: 96.2rem;
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 1.445;
+  color: #615a5a;
+  font-family: Jost, 'Source Sans Pro';
+}
+.primary-care--Sdu .consultant-dermatology-U7y {
+  width: 6.7rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 14.1rem;
+  top: 96rem;
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 1.445;
+  color: #615a5a;
+  font-family: Jost, 'Source Sans Pro';
+}
+.primary-care--Sdu .image-6-yKd {
+  width: 7.3rem;
+  height: 8.8rem;
+  position: absolute;
+  left: 4.1rem;
+  top: 78.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 0.8rem;
+}
+.primary-care--Sdu .image-7-sR1 {
+  width: 7.3rem;
+  height: 8.9rem;
+  position: absolute;
+  left: 4.1rem;
+  top: 92.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1.2rem;
+}

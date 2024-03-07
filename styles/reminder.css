@@ -1,0 +1,271 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 39.3rem;
+}.reminder-pVd {
+  width: 100%;
+  height: 85.2rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #131e3c;
+}
+.reminder-pVd .rectangle-1-Lis {
+  width: 39.3rem;
+  height: 82.5rem;
+  position: absolute;
+  left: 0;
+  top: 2.7rem;
+  background-color: #ffffff;
+}
+.reminder-pVd .reminders-EZM {
+  width: 29.9rem;
+  height: 7rem;
+  position: absolute;
+  left: 4.6rem;
+  top: 11.5rem;
+  font-size: 4.8rem;
+  font-weight: 900;
+  line-height: 1.445;
+  color: #131e3c;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.reminder-pVd .bx-checkbox-vBH {
+  width: 2.6833rem;
+  height: 2.45rem;
+  position: absolute;
+  left: 1.7583rem;
+  top: 29.475rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.reminder-pVd .bx-checkbox-Ehm {
+  width: 2.6833rem;
+  height: 2.45rem;
+  position: absolute;
+  left: 1.7583rem;
+  top: 36.875rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.reminder-pVd .bx-checkbox-LVu {
+  width: 2.6833rem;
+  height: 2.45rem;
+  position: absolute;
+  left: 1.7583rem;
+  top: 43.475rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.reminder-pVd .mingcute-back-2-fill-g3y {
+  width: 2.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 12.7rem;
+  top: 6.9rem;
+  overflow: hidden;
+}
+.reminder-pVd .back-1-Co1 {
+  width: 5.2rem;
+  height: 2.6rem;
+  cursor: pointer;
+  position: absolute;
+  left: 0.9rem;
+  top: 5.5rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.reminder-pVd .medicines-vDD {
+  width: 16rem;
+  height: 4.7rem;
+  position: absolute;
+  left: 1.5rem;
+  top: 21.7rem;
+  font-size: 3.2rem;
+  font-weight: 900;
+  line-height: 1.445;
+  color: #000000;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.reminder-pVd .vital-checks-p3h {
+  width: 19.8rem;
+  height: 4.7rem;
+  position: absolute;
+  left: 1.5rem;
+  top: 48.4rem;
+  font-size: 3.2rem;
+  font-weight: 900;
+  line-height: 1.445;
+  color: #000000;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.reminder-pVd .frame-3-JUf {
+  width: 15.1rem;
+  height: 16.7rem;
+  position: absolute;
+  left: 7.2rem;
+  top: 29.3rem;
+}
+.reminder-pVd .frame-3-JUf .metformin-DNf {
+  margin-bottom: 4.2rem;
+  font-size: 2.4rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.reminder-pVd .frame-3-JUf .adlyxin-KAo {
+  margin-bottom: 3.5rem;
+  font-size: 2.4rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.reminder-pVd .frame-3-JUf .sulfonylurea-RzX {
+  font-size: 2.4rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.reminder-pVd .blood-pressure-xzT {
+  width: 18rem;
+  height: 3rem;
+  position: absolute;
+  left: 1.6rem;
+  top: 55rem;
+  font-size: 2.4rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.reminder-pVd .sugar-check-TAX {
+  width: 15.3rem;
+  height: 3rem;
+  position: absolute;
+  left: 1.5rem;
+  top: 61.1rem;
+  font-size: 2.4rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.reminder-pVd .due-2pm-8nT {
+  width: 8.4rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 27.6rem;
+  top: 29.5rem;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  font-style: italic;
+  color: #908c8c;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.reminder-pVd .due-2pm-3eX {
+  width: 8.4rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 27.6rem;
+  top: 36.6rem;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  font-style: italic;
+  color: #908c8c;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.reminder-pVd .due-2pm-Ngo {
+  width: 8.4rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 27.6rem;
+  top: 43.1rem;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  font-style: italic;
+  color: #908c8c;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.reminder-pVd .rectangle-12-uAw {
+  width: 12.4rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 24.4rem;
+  top: 55.1rem;
+  background-color: #d9d9d9;
+  border-radius: 1.9rem;
+}
+.reminder-pVd .rectangle-13-d6w {
+  width: 12.4rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 24.4rem;
+  top: 61.1rem;
+  background-color: #d9d9d9;
+  border-radius: 1.9rem;
+}
+.reminder-pVd .enter-mD9 {
+  width: 3.1rem;
+  height: 1.5rem;
+  position: absolute;
+  left: 29rem;
+  top: 55.9rem;
+  font-size: 1.2rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  font-style: italic;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.reminder-pVd .enter-Gvb {
+  width: 3.1rem;
+  height: 1.5rem;
+  position: absolute;
+  left: 29.2rem;
+  top: 61.9rem;
+  font-size: 1.2rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  font-style: italic;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.reminder-pVd .logo-1-Am5 {
+  width: 21.7rem;
+  height: 5rem;
+  position: absolute;
+  left: 16.1rem;
+  top: 4.2rem;
+  object-fit: cover;
+  vertical-align: top;
+}

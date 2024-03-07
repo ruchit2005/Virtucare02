@@ -1,0 +1,162 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 39.3rem;
+}.doctors-assistance-F9Z {
+  width: 100%;
+  height: 85.2rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #131e3c;
+}
+.doctors-assistance-F9Z .rectangle-1-YPZ {
+  width: 39.3rem;
+  height: 82.5rem;
+  position: absolute;
+  left: 0;
+  top: 2.7rem;
+  background-color: #ffffff;
+}
+.doctors-assistance-F9Z .back-1-H6F {
+  width: 5.2rem;
+  height: 2.6rem;
+  cursor: pointer;
+  position: absolute;
+  left: 0.9rem;
+  top: 5.5rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.doctors-assistance-F9Z .doctors-assistance-oKV {
+  width: 31.8rem;
+  height: 13.9rem;
+  position: absolute;
+  left: 3.75rem;
+  top: 14.2rem;
+  text-align: center;
+  font-size: 4.8rem;
+  font-weight: 900;
+  line-height: 1.445;
+  color: #131e3c;
+  font-family: Jost, 'Source Sans Pro';
+}
+.doctors-assistance-F9Z .rectangle-14-S7Z {
+  width: 32.8rem;
+  height: 12.5rem;
+  cursor: pointer;
+  position: absolute;
+  left: 2.9rem;
+  top: 36.3rem;
+  filter: blur(0.2rem);
+  background-color: #b3dae0;
+  border-radius: 1rem;
+}
+.doctors-assistance-F9Z .rectangle-15-wKD {
+  width: 32.8rem;
+  height: 12.5rem;
+  cursor: pointer;
+  position: absolute;
+  left: 2.9rem;
+  top: 52.5rem;
+  filter: blur(0.2rem);
+  background-color: #e36666;
+  border-radius: 1rem;
+}
+.doctors-assistance-F9Z .rectangle-16-THZ {
+  width: 32.8rem;
+  height: 12.5rem;
+  cursor: pointer;
+  position: absolute;
+  left: 2.9rem;
+  top: 68.7rem;
+  filter: blur(0.2rem);
+  background-color: #a89ad5;
+  border-radius: 1rem;
+}
+.doctors-assistance-F9Z .text-your-doctor-1-yWo {
+  width: 10.6rem;
+  height: 9.3rem;
+  position: absolute;
+  left: 23.4rem;
+  top: 70.3rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.doctors-assistance-F9Z .doc-1-JZ5 {
+  width: 14.5rem;
+  height: 13rem;
+  position: absolute;
+  left: 24.8rem;
+  top: 37.4rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.doctors-assistance-F9Z .hospitsl-1-Ehd {
+  width: 15.4rem;
+  height: 10.2rem;
+  position: absolute;
+  left: 0;
+  top: 53.6rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.doctors-assistance-F9Z .primary-care-appointment-aFh {
+  width: 25.2rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 3.5rem;
+  top: 41.1rem;
+  font-size: 2rem;
+  font-weight: 800;
+  line-height: 1.445;
+  color: #000000;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.doctors-assistance-F9Z .urgent-care-RXD {
+  width: 11.8rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 17.8rem;
+  top: 56.6rem;
+  font-size: 2rem;
+  font-weight: 800;
+  line-height: 1.445;
+  color: #ffffff;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.doctors-assistance-F9Z .text-your-doctor-HJX {
+  width: 16.1rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 6.1rem;
+  top: 72.4rem;
+  font-size: 2rem;
+  font-weight: 800;
+  line-height: 1.445;
+  color: #000000;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.doctors-assistance-F9Z .logo-1-ZG3 {
+  width: 21.7rem;
+  height: 5rem;
+  position: absolute;
+  left: 16.1rem;
+  top: 4.2rem;
+  object-fit: cover;
+  vertical-align: top;
+}

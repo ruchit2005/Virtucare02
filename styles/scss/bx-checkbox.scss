@@ -1,0 +1,46 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 8.6rem;
+}.bx-checkbox-8QX {
+  width: 100%;
+  align-items: center;
+  box-sizing: border-box;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  border: dashed 0.1rem #9747ff;
+  border-radius: 0.5rem;
+  padding: 2rem 2rem 1.9rem 2rem;
+
+  .property-1default-jHq {
+    vertical-align: top;
+    flex-shrink: 0;
+    margin-bottom: 2.1rem;
+    width: 4.6rem;
+    height: 4.2rem;
+    cursor: pointer;
+    position: relative;
+    object-fit: contain;
+  }
+  .property-1default-DD1 {
+    height: 4.2rem;
+    object-fit: contain;
+    vertical-align: top;
+    flex-shrink: 0;
+    width: 4.6rem;
+  }
+}

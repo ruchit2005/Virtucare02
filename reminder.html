@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <link rel="icon" href="/favicon.ico" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="theme-color" content="#000000" />
+  <title>reminder</title>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Jost%3A900"/>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro%3A500%2C800%2C900"/>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Inter%3A500%2C800"/>
+  <link rel="stylesheet" href="./styles/reminder.css"/>
+</head>
+<body>
+<div class="reminder-pVd">
+  <div class="rectangle-1-Lis">
+  </div>
+  <p class="reminders-EZM">REMINDERS</p>
+  <input type="checkbox" class="bx-checkbox-vBH"/>
+  <input type="checkbox" class="bx-checkbox-Ehm"/>
+  <input type="checkbox" class="bx-checkbox-LVu"/>
+  <a href="h.html">
+    <img class="back-1-Co1" src="./assets/back-1.png"/>
+  </a>
+  <p class="medicines-vDD">Medicines</p>
+  <p class="vital-checks-p3h">Vital Checks</p>
+  <div class="frame-3-JUf">
+    <p class="metformin-DNf">Metformin</p>
+    <p class="adlyxin-KAo">Adlyxin</p>
+    <p class="sulfonylurea-RzX">Sulfonylurea</p>
+  </div>
+  <p class="blood-pressure-xzT">Blood Pressure</p>
+  <p class="sugar-check-TAX">Sugar Check</p>
+  <p class="due-2pm-8nT">due 2pm</p>
+  <p class="due-2pm-3eX">due 5pm</p>
+  <p class="due-2pm-Ngo">due 10pm</p>
+  <div class="rectangle-12-uAw">
+  </div>
+  <div class="rectangle-13-d6w">
+  </div>
+  <p class="enter-mD9">Enter</p>
+  <p class="enter-Gvb">Enter</p>
+  <a href="h.html" class="go-back-link">
+    <img class="logo-1-Am5" src="./assets/logo-1-zdM.png"/>
+  </a>
+</div>
+
+<script>
+  const checkboxes = document.querySelectorAll('.bx-checkbox-vBH, .bx-checkbox-Ehm, .bx-checkbox-LVu');
+  const medicines = document.querySelector('.frame-3-JUf');
+  const dueTimes = document.querySelectorAll('.due-2pm-8nT, .due-2pm-3eX, .due-2pm-Ngo');
+
+  checkboxes.forEach(checkbox => {
+    checkbox.addEventListener('change', function() {
+      const allChecked = Array.from(checkboxes).every(checkbox => checkbox.checked);
+      if (allChecked) {
+        medicines.style.display = 'none'; // Hide the medicines
+        dueTimes.forEach(dueTime => {
+          dueTime.style.display = 'none'; // Hide the due times
+        });
+        alert('All medicines for now are taken.'); // Show alert
+      } else {
+        medicines.style.display = 'block'; // Show the medicines
+        dueTimes.forEach(dueTime => {
+          dueTime.style.display = 'block'; // Show the due times
+        });
+      }
+    });
+  });
+</script>
+</body>
+</html>
